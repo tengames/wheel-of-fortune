@@ -45,6 +45,6 @@ You can get the sources
 $ git clone https://github.com/tengames/wheel-of-fortune.git
 ```
 
-<a href="https://www.buymeacoffee.com/conngcoi123" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+<a href="https://www.buymeacoffee.com/congcoi123" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 > Happy coding !
