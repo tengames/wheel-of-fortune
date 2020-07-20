@@ -8,7 +8,7 @@
         <img src="https://img.shields.io/badge/license-MIT-blue.svg">
     </a>
     <a href="#">
-        <img src="https://img.shields.io/github/last-commit/congcoi123/tenio">
+        <img src="https://img.shields.io/github/last-commit/tengames/wheel-of-fortune">
     </a>
     <a href="https://github.com/tengames/wheel-of-fortune/issues">
         <img src="https://img.shields.io/github/issues/tengames/wheel-of-fortune">
